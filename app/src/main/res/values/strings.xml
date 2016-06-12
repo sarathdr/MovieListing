@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">movies</string>
+    <string name="app_label">Search</string>
+    <string name="search_hint">Search Movies</string>
+
+    <string name="movie_title">Title: </string>
+    <string name="movie_director">Director: </string>
+    <string name="movie_actors">Actors: </string>
+
+</resources>
